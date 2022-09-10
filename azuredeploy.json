@@ -22,9 +22,11 @@
           "B1",
           "B2",
           "B3",
-          "S1"
+          "S1",
+          "Dv2",
+          "DSv2"
         ],
-        "defaultValue": "F1",
+        "defaultValue": "Dv2",
         "metadata": {
           "description": "The pricing tier for the hosting plan."
         }
